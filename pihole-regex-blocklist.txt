@@ -1,0 +1,6 @@
+# Games
+(\.|^)geodash\.org$
+(\.|^)lolygames\.github\.io$
+(\.|^)geometry\.games$
+(\.|^)play\.snowrider3d\.games$
+
