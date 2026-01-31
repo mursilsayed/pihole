@@ -9,3 +9,9 @@
 (\.|^)geometrydashwave\.io$
 (\.|^)geometrygame\.org$
 (\.|^)bloxd\.io$
+(\.|^)1games\.io$
+(\.|^)azgame\.io$
+(\.|^)geometry-games\.io$
+(\.|^)crazygames\.com$
+(\.|^)playgama\.com$
+(\.|^)prodigygame\.com$
