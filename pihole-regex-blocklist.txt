@@ -3,4 +3,9 @@
 (\.|^)lolygames\.github\.io$
 (\.|^)geometry\.games$
 (\.|^)play\.snowrider3d\.games$
-
+(\.|^)play\.2games\.io$
+(\.|^)2games\.io$
+(\.|^)dash-geometry\.com$
+(\.|^)geometrydashwave\.io$
+(\.|^)geometrygame\.org$
+(\.|^)bloxd\.io$
