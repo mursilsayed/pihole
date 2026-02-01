@@ -22,3 +22,8 @@
 # pihole-kids, Default
 ## Minecraft
 (\.|^)minecraft\.net$
+(\.|^)minecrafteduservices\.com$
+(\.|^)minecraft-services\.net$
+(\.|^)playfabapi\.com$
+(\.|^)bing\.com$
+
