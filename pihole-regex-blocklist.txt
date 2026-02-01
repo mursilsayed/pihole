@@ -15,3 +15,6 @@
 (\.|^)crazygames\.com$
 (\.|^)playgama\.com$
 (\.|^)prodigygame\.com$
+(\.|^)geometrydashlitepc\.io$
+(\.|^)msn\.com$
+
