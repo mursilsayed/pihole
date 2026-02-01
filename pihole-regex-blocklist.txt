@@ -1,4 +1,4 @@
-# Games
+# pihole-kids, Default
 (\.|^)geodash\.org$
 (\.|^)lolygames\.github\.io$
 (\.|^)geometry\.games$
@@ -17,4 +17,6 @@
 (\.|^)prodigygame\.com$
 (\.|^)geometrydashlitepc\.io$
 (\.|^)msn\.com$
+(\.|^)msnfun\.com$
+
 
