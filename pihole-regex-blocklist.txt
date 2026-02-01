@@ -20,9 +20,5 @@
 (\.|^)msnfun\.com$
 
 # pihole-kids, Default
-## Minecraft education
-(^|\.)education\.minecraft\.net$
-(^|\.)educationassets\.minecraft\.net$
-(^|\.)mee\.minecraft\.net$
-(^|\.)meecdn\.services\.minecraft\.net$
-
+## Minecraft
+(^|\.)minecraft\.net$
