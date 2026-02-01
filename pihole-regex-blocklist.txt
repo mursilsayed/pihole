@@ -21,4 +21,4 @@
 
 # pihole-kids, Default
 ## Minecraft
-(^|\.)minecraft\.net$
+(\.|^)minecraft\.net$
