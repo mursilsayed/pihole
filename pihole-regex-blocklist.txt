@@ -27,3 +27,19 @@
 (\.|^)playfabapi\.com$
 (\.|^)bing\.com$
 
+# team
+(\.|^)teams\.microsoft\.com$
+(\.|^)teams\.live\.com$
+(\.|^)teams\.cdn\.office\.net$
+(\.|^)teams\.events\.data\.microsoft\.com$
+(\.|^)statics\.teams\.cdn\.office\.net$
+## Teams media/calling infrastructure
+^[a-z0-9\-]+\.lync\.com$
+(\.|^)lync\.com$
+(\.|^)skype\.com$
+## Teams-specific relay/transport
+(\.|^)trouter\.teams\.microsoft\.com$
+(\.|^)ng\.msg\.teams\.microsoft\.com$
+(\.|^)emea\.ng\.msg\.teams\.microsoft\.com$
+(\.|^)aus\.ng\.msg\.teams\.microsoft\.com$
+
